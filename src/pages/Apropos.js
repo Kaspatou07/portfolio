@@ -35,14 +35,15 @@ function Apropos() {
                 </div>
             </section>
             <section className="hobbies">
+               
 
                 <div className="hobbie-content first">
                     <h2>Mes Hobbies</h2>
-                    <img src="/portfolio/assets/images/hardware.webp" alt="composants d'ordinateur" />
+                    <img src="/portfolio/assets/images/hardware.webp" alt="composants d'ordinateurs" />
                     <h2>Le Hardware </h2>
                     <p>Je me passionne pour le bricolage électronique, un hobby qui marie créativité et technologie. En tant que développeur web, j’ai trouvé que diversifier mes compétences avec le hardware enrichit considérablement mon profil technique. Je travaille avec des microcontrôleurs comme Arduino ou Raspberry Pi pour créer des projets variés, allant de systèmes domotiques intelligents à des robots personnalisés.  </p>
                 </div>
-
+               <div className='hobbie-align'>
                 <div className="hobbie-content second color1">
                 <i class="fa-solid fa-book fa-3x"></i>
                     <h2>Lecture</h2>
@@ -62,12 +63,12 @@ function Apropos() {
 
                 <div className="hobbie-content second color4">
                 <i class="fa-solid fa-music fa-3x"></i>
-                    <h2>La musique </h2>
+                    <h2>Musique </h2>
                     <p>Qu'il s'agisse de découvrir de nouveaux genres, d'écouter des classiques ou d'explorer les créations d'artistes émergents, chaque morceau apporte une nouvelle dimension à mon quotidien. La musique stimule ma créativité, éveille mes émotions et me permet de m'exprimer de manière unique. Elle est également un moyen de connexion universelle, me rapprochant des autres à travers des rythmes et des mélodies partagés. 
                     </p>
                 </div>
+               </div> 
             </section>
-
         </div>
     )
 }
