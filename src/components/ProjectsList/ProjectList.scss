@@ -1,0 +1,27 @@
+// ProjectList.scss
+
+.project-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    gap: 40px;
+    padding: 30px 0 30px 0;
+    justify-items: center;
+
+    @media screen and (min-width:350px) {
+        grid-template-columns: 1fr;
+    }
+
+    @media screen and (min-width:880px) {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    @media screen and (min-width:1440px) {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    @media screen and (min-width:1920px) {
+        margin: 0px 150px;
+        row-gap: 80px;
+    }
+}

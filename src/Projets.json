@@ -1,0 +1,168 @@
+[
+    {
+        "id": "Booki",
+        "title": "Hôtel Booki",
+        "coverTitle": "Projet Booki",
+        "cover": "/assets/miniatures/booki-projet.webp",
+        "alt": "visuel du site web Booki",
+        "explication": "Structure et style de la page web avec HTML et CSS",
+        "imgDetail":"/assets/images/booki.webp",
+        "altimgDetail":"",
+        "date": "Septembre 2023",
+        "linkPage": "https://kaspatou07.github.io/Booki/",
+        "linkGithub": "https://github.com/Kaspatou07/Booki",
+        "description": "Premiers pas dans l'univers HTML/CSS sur ce projet. La mission était de créer une page via une maquette figma. Elle devait être responsive mobile, tablette et desktop. Les conditions à respecter étaient de simuler un bouton de recherche, d'appliquer des effets graphiques sur différents éléments de la page.",
+        "tags": [
+            {
+                "title": "HTML",
+                "img_src": "html.png",
+                "img_alt": "Logo du langage Html"
+            },
+            {
+                "title": "CSS",
+                "img_src": "css-3.png",
+                "img_alt": "Logo du langage CSS"
+            }
+        ]
+    },
+    {
+        "id": "OhMyFood",
+        "title": "Annuaire de restaurant OhMyFood",
+        "coverTitle": "Projet OhMyFood",
+        "cover": "/assets/miniatures/ohmyfood-projet.webp",
+        "alt": "visuel du site web OhMyFood",
+        "explication": "Apprentissage du mobile first et les animations CSS",
+        "imgDetail":"/assets/images/ohmyfood.webp",
+        "altimgDetail":"",
+        "date": "Octobre 2023",
+        "linkPage": "https://kaspatou07.github.io/OhMyFood/index.html",
+        "linkGithub": "https://github.com/Kaspatou07/OhMyFood",
+        "description": "Création du site en suivant les maquettes fournies. L'objectif de ce projet est de développer en mobile first et d'appliquer le responsive design. Parmi les demandes, il y a la création d'un loader, appliquer des animations css et keyframe fluide en hoover. ",
+        "tags": [
+            {
+                "title": "HTML",
+                "img_src": "html.png",
+                "img_alt": "Logo du langage Html"
+            },
+            {
+                "title": "CSS",
+                "img_src": "css-3.png",
+                "img_alt": "Logo du langage CSS"
+            },
+            {
+                "title": "Sass",
+                "img_src": "sass.png",
+                "img_alt": "Logo du langage Sass"
+            }
+        ]
+    },
+    {
+        "id": "NinaCarducci",
+        "title": "Référencement et optimisations du site Nina Carducci",
+        "coverTitle": "Projet Nina Carducci",
+        "cover": "/assets/miniatures/carducci-projet.webp",
+        "alt": "visuel du site web de la photographe Nina Carducci",
+        "explication": "Étude du référencement naturel et de l'accessibilité",
+        "imgDetail":"/assets/images/nina-carducci.webp",
+        "altimgDetail":"",
+        "date": "Décembre 2023",
+        "linkPage": "https://kaspatou07.github.io/Ninacarducci/",
+        "linkGithub": "https://github.com/Kaspatou07/Ninacarducci",
+        "description": "Optimisations du site d'une photographe. ",
+        "tags": [
+            {
+                "title": "HTML",
+                "img_src": "html.png",
+                "img_alt": "Logo du langage Html"
+            },
+            {
+                "title": "CSS",
+                "img_src": "css-3.png",
+                "img_alt": "Logo du langage CSS"
+            },
+            {
+                "title": "LightHouse",
+                "img_src": "lighthouse.png",
+                "img_alt": "Logo de l'outil LightHouse"
+            }
+        ]
+    },
+    {
+        "id": "Kasa",
+        "title": "Refonte de l'agence de location immobilière, Kasa",
+        "coverTitle": "Projet Kasa",
+        "cover": "/assets/miniatures/kasa-projet.webp",
+        "alt": "élément du visuel du site web Kasa",
+        "explication": "Création d'un site web avec React Natif",
+        "imgDetail":"/assets/images/kasa.webp",
+        "altimgDetail":"",
+        "date": "Janvier 2024",
+        "linkPage": "",
+        "linkGithub": "https://github.com/kaspatou07/Kasa",
+        "description": "Refonte du site Web Kasa avec utilisation d'une base de données. React a été utilisé pour le front-end notamment via la création de composants modulaires, ainsi que l'utilisation du système de routes pour créer plusieurs pages. Ce fut une expérience enrichissante de concevoir et de mettre en œuvre des composants en suivant la syntaxe spécifique de React. ",
+        "tags": [
+            {
+                "title": "HTML",
+                "img_src": "html.png",
+                "img_alt": "Logo du langage Html"
+            },
+            {
+                "title": "Sass",
+                "img_src": "sass.png",
+                "img_alt": "Logo du langage Sass"
+            },
+            {
+                "title": "JavaScript",
+                "img_src": "javascript.png",
+                "img_alt": "Logo du langage JavaScript"
+            },
+            {
+                "title": "React",
+                "img_src": "react.png",
+                "img_alt": "Logo du langage/Framework React"
+            }
+        ]
+    },
+    
+    {
+        "id": "Argent Bank",
+        "title": "Gestion d'un site bancaire",
+        "coverTitle": "Projet Argent Bank",
+        "cover": "/assets/miniatures/bank-projet.webp",
+        "alt": "Pot de fleur avec des pièces de monnaie dedans",
+        "explication": "Gestion de la connexion utilisateur avec Redux Toolkit",
+        "imgDetail":"/assets/images/argentbank.webp",
+        "altimgDetail":"",
+        "date": "Mars 2024",
+        "linkPage": "",
+        "linkGithub": "https://github.com/kaspatou07/argent-bank",
+        "description": "Intégration du front-end et du back-end via l'utilisation d'une API. J'ai transformé le site statique en une application web responsive avec React et Redux Toolkit, en mettant l'accent sur la gestion de la connexion de l'utilisateur et la possibilité de modifier son pseudo. Grâce à Redux Toolkit, j'ai pu centraliser les données et les rendres accessibles dans tous les composants.  ",
+        "tags": [
+            {
+                "title": "HTML",
+                "img_src": "html.png",
+                "img_alt": "Logo du langage Html"
+            },
+            {
+                "title": "Sass",
+                "img_src": "sass.png",
+                "img_alt": "Logo du langage Sass"
+            },
+            {
+                "title": "JavaScript",
+                "img_src": "javascript.png",
+                "img_alt": "Logo du langage JavaScript"
+            },
+            {
+                "title": "React",
+                "img_src": "react.png",
+                "img_alt": "Logo du langage/Framework React"
+            },
+            {
+                "title": "Redux",
+                "img_src": "redux.png",
+                "img_alt": "Logo de la bibliothèque redux"
+            }
+        ]
+    }
+]

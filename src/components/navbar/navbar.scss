@@ -1,0 +1,26 @@
+nav {
+    .nav-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        list-style-type: none;
+        padding: 0;
+        gap: 30px;
+
+        li {
+            list-style-type: none;
+            font-size: 1.5em;
+
+            a {
+                text-decoration: none;
+                color: #e7eaf0;
+
+            }
+        }
+
+
+        .active {
+            font-weight: bold;
+        }
+    }
+}
