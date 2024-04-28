@@ -22,7 +22,7 @@ function Home() {
                     <p>Toujours à l'affût des dernières tendances et pratiques de développement, je m'efforce d'améliorer continuellement mes compétences pour offrir des produits de pointe. Ma passion pour le code et mon engagement envers l'excellence garantissent des solutions fiables et esthétiques, répondant aux exigences les plus élevées. </p> 
                 </div>
           </div>
-                    <a href="www.linkedin.com/in/pa-barnouin" aria-label="Lien Linkedin" ><div className="button-linkedin"> Mon compte Linkedin </div></a>
+                    <a href="https://www.linkedin.com/in/pa-barnouin" aria-label="Lien Linkedin" ><div className="button-linkedin"> Mon compte Linkedin </div></a>
         </div>
         <img src={imgPresentation} alt="bureau de développeur" className="image-presentation" />
       </section>
