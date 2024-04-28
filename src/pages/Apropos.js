@@ -56,12 +56,7 @@ function Apropos() {
                     <h2>Jeux Vidéo</h2>
                     <p> Le jeu vidéo développe ma capacité à résoudre des problèmes, améliore ma coordination et ma réactivité, tout en me permettant de me détendre et de m'évader du quotidien. C'est également une opportunité pour tisser des liens avec d'autres joueurs autour du globe, partageant des défis et des succès. Pour moi, jouer n'est pas seulement un loisir, c'est une passion qui nourrit mon esprit et élargit mes horizons.</p>
                 </div>
-                <div className="hobbie-content second color3">
-                <i class="fa-solid fa-film fa-3x"></i>
-                    <h2>Cinéma</h2>
-                    <p>Je suis passionné par le cinéma, une passion qui me transporte à travers différentes époques et cultures. Chaque film est une fenêtre ouverte sur un monde nouveau, offrant des perspectives uniques et des émotions variées. Le cinéma stimule mon imagination, aiguise ma compréhension des récits visuels et sonores, et enrichit ma sensibilité artistique. </p>
-                </div>
-
+                
                 <div className="hobbie-content second color4">
                 <i class="fa-solid fa-music fa-3x"></i>
                     <h2>Musique </h2>
