@@ -1,7 +1,7 @@
 import "./SkillCard.scss";
 
 function SkillCard(props) {
-    const file_url = '/assets/images/' + props.src;
+    const file_url = '/portfolio/assets/images/' + props.src;
 
     return (
         <div className="skills-soft-content ">

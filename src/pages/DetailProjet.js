@@ -36,12 +36,12 @@ function DetailProjet() {
 
                     <div className='link-projets'>
                         <a href={project.linkGithub} className='icon-projet'>
-                            <img src="/assets/images/github-link.png" alt="icon github" className='icon' />
+                            <img src="/portfolio/assets/images/github-link.png" alt="icon github" className='icon' />
                             <span>Source</span>
                         </a>
                         {project.linkPage && ( 
                             <a href={project.linkPage} className='icon-projet'>
-                                <img src="/assets/images/web.png" alt="icon site web" className='icon' />
+                                <img src="/portfolio/assets/images/web.png" alt="icon site web" className='icon' />
                                 <span>Site</span>
                             </a>)}
                     </div>

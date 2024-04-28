@@ -1,5 +1,3 @@
-// App.js
-
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header/Header';
@@ -12,7 +10,7 @@ import Error404 from './pages/404';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio">
       <div>
         <Header />
         <Routes>

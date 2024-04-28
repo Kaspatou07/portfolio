@@ -38,7 +38,7 @@ function Apropos() {
 
                 <div className="hobbie-content first">
                     <h2>Mes Hobbies</h2>
-                    <img src="/assets/images/hardware.webp" alt="" />
+                    <img src="/portfolio/assets/images/hardware.webp" alt="composants d'ordinateur" />
                     <h2>Le Hardware </h2>
                     <p>Je me passionne pour le bricolage électronique, un hobby qui marie créativité et technologie. En tant que développeur web, j’ai trouvé que diversifier mes compétences avec le hardware enrichit considérablement mon profil technique. Je travaille avec des microcontrôleurs comme Arduino ou Raspberry Pi pour créer des projets variés, allant de systèmes domotiques intelligents à des robots personnalisés.  </p>
                 </div>
