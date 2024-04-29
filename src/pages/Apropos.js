@@ -17,7 +17,7 @@ function Apropos() {
             <section className="objectifs">
                 <h2>Mes objectifs</h2>
                 <div className="objectif-content">
-                <i class="fa-solid fa-leaf fa-2x"></i>
+                <i className="fa-solid fa-leaf fa-2x"></i>
                     <h3>Green code</h3>
 
                     <p>Apprendre et intégrer des pratiques de green code dans mes projets web afin de réduire l'empreinte écologique des applications et promouvoir
@@ -25,12 +25,12 @@ function Apropos() {
                     </p>
                 </div>
                 <div className="objectif-content">
-                <i class="fa-solid fa-wand-magic-sparkles fa-2x"></i>
+                <i className="fa-solid fa-wand-magic-sparkles fa-2x"></i>
                     <h3>UX Design</h3>
                     <p>S'efforcer de créer des interfaces utilisateur qui ne sont pas seulement fonctionnelles mais aussi attrayantes et intuitives. Cela implique de comprendre les principes de design.</p>
                 </div>
                 <div className="objectif-content">
-                <i class="fa-solid fa-graduation-cap fa-2x"></i>
+                <i className="fa-solid fa-graduation-cap fa-2x"></i>
                     <h3>Continuer d'apprendre</h3>
                     <p>En tant que développeur web, il est crucial de rester informé des évolutions technologiques et de continuellement affiner ses compétences. Se tenir à jour à travers des projets.</p>
                 </div>
@@ -46,19 +46,19 @@ function Apropos() {
                 </div>
                <div className='hobbie-align'>
                 <div className="hobbie-content second color1">
-                <i class="fa-solid fa-book fa-3x"></i>
+                <i className="fa-solid fa-book fa-3x"></i>
                     <h2>Lecture</h2>
                     <p>La lecture m'aide à développer ma compréhension des autres, affûte mon esprit critique et stimule ma créativité. Elle est pour moi une source constante de détente et d'inspiration, et un moyen privilégié de continuer à apprendre et à grandir, tant sur le plan personnel que professionnel.</p>
                 </div>
 
                 <div className="hobbie-content second color2">
-                <i class="fa-solid fa-gamepad fa-3x"></i>
+                <i className="fa-solid fa-gamepad fa-3x"></i>
                     <h2>Jeux Vidéo</h2>
                     <p> Le jeu vidéo développe ma capacité à résoudre des problèmes, améliore ma coordination et ma réactivité, tout en me permettant de me détendre et de m'évader du quotidien. C'est également une opportunité pour tisser des liens avec d'autres joueurs autour du globe, partageant des défis et des succès. Pour moi, jouer n'est pas seulement un loisir, c'est une passion qui nourrit mon esprit et élargit mes horizons.</p>
                 </div>
                 
                 <div className="hobbie-content second color4">
-                <i class="fa-solid fa-music fa-3x"></i>
+                <i className="fa-solid fa-music fa-3x"></i>
                     <h2>Musique </h2>
                     <p>Qu'il s'agisse de découvrir de nouveaux genres, d'écouter des classiques ou d'explorer les créations d'artistes émergents, chaque morceau apporte une nouvelle dimension à mon quotidien. La musique stimule ma créativité, éveille mes émotions et me permet de m'exprimer de manière unique. Elle est également un moyen de connexion universelle, me rapprochant des autres à travers des rythmes et des mélodies partagés. 
                     </p>
