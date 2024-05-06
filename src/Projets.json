@@ -68,7 +68,7 @@
         "date": "Décembre 2023",
         "linkPage": "https://kaspatou07.github.io/Ninacarducci/",
         "linkGithub": "https://github.com/Kaspatou07/Ninacarducci",
-        "description": "Optimisations du site d'une photographe. ",
+        "description": "Optimisations de la one page d'une photographe afin de la rendre plus accessible aux utilisateurs ayant une déficience visuelle grâce aux principes d'accessibilités. Le redimensionnement et la conversion des images aux bon formats, permet d'améliorer les performances d'affichages. L'objectif demandé est d'obtenir un score d'au moins 90 sur Lighthouse. Une amélioration du SEO à notamment était effectuée en ajoutant une balise meta title, en renommant les images et en contribuant les balises ALT.  ",
         "tags": [
             {
                 "title": "HTML",
