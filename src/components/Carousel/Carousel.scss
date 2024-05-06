@@ -1,12 +1,11 @@
 .SlideCardList {
     position: relative;
-    width: 100%;
-    max-width: 1440px;
+    width: 70%;
     height: 586px;
 
     .SlideCard {
         width: 100%;
-        left: 300px;
+        left: 0;
         top: 0;
         position: absolute;
         transition: opacity 1s;
@@ -50,3 +49,9 @@
         transform: translateX(0%);
     }
 }
+
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 400px) {}

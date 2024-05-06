@@ -14,9 +14,9 @@ function App() {
       <div>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/Apropos" element={<Apropos />} />
-          <Route path="/projet/:idprojet" element={<DetailProjet nom="projet" />} />
+          <Route path="/" element={<Home name="Home"/>} />
+          <Route path="/Apropos" element={<Apropos name="Apropos"/>} />
+          <Route path="/projet/:idprojet" element={<DetailProjet nom="projet"/>} />
           <Route path="/projects" element={<Projects />} /> 
           <Route path="/*" element={<Error404 nom="Erreur" />} />
         </Routes>

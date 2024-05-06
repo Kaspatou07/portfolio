@@ -42,7 +42,9 @@
         width: 50%;
         padding: 0 20px;
 
-
+        @media (max-width: 1518px) {
+            width: 80%;
+        }
 
         .cover-container {
             width: 100%;
