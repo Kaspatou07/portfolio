@@ -57,7 +57,7 @@
             margin: 30px auto;
             background-color: white;
             padding: 1.2em;
-            border-radius: 20px 20px 0 0;
+            border-radius: 20px;
             box-shadow: 3px 3px 12px #ccc9c9c9;
 
             p {
@@ -69,7 +69,7 @@
             }
 
             @media (min-width: 769px) {
-                border-radius: 20px 0px 0px 20px;
+                border-radius: 20px;
                 width: 80%;
                 height: fit-content;
             }
