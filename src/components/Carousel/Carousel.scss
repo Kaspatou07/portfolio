@@ -1,6 +1,6 @@
 .SlideCardList {
     position: relative;
-    width: 70%;
+    width: 55%;
     height: 586px;
 
     .SlideCard {
@@ -50,8 +50,20 @@
     }
 }
 
-@media screen and (max-width: 1440px) {}
+@media screen and (max-width: 1440px) {
+    .SlideCardList {
+        width: 75%;
+    }
+}
 
-@media screen and (max-width: 768px) {}
+@media screen and (max-width: 768px) {
+    .SlideCardList {
+        width: 85%;
+    }
+}
 
-@media screen and (max-width: 400px) {}
+@media screen and (max-width: 400px) {
+    .SlideCardList {
+        width: 95%;
+    }
+}
