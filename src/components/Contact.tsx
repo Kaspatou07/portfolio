@@ -6,7 +6,7 @@ const socials = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/Kaspatou07",
+    href: "https://github.com/pabarn-dev",
   },
   {
     icon: Linkedin,
@@ -20,7 +20,7 @@ const socials = [
   },
 ];
 
-const EMAIL = "kawap07@gmail.com";
+const EMAIL = "pabarn.dev@gmail.com";
 
 const Contact = () => {
   return (

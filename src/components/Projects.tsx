@@ -20,9 +20,9 @@ const projects: Project[] = [
     description:
       "Création du site en suivant les maquettes fournies sur Figma. L'objectif de ce projet est de développer en mobile first et d'appliquer le responsive design. Parmi les demandes, création d'un loader, appliquer des animations CSS et keyframes.",
     tags: ["HTML", "CSS", "Sass"],
-    image: "/images/ohmyfood.webp",
-    githubUrl: "https://github.com/Kaspatou07/OhMyFood",
-    liveUrl: "https://kaspatou07.github.io/OhMyFood/",
+    image: `${import.meta.env.BASE_URL}images/ohmyfood.webp`,
+    githubUrl: "https://github.com/pabarn-dev/OhMyFood",
+    liveUrl: "https://pabarn-dev.github.io/OhMyFood/",
   },
   {
     title: "Refonte d'une app de location immobilière, Kasa",
@@ -30,9 +30,9 @@ const projects: Project[] = [
     description:
       "Refonte du site Web Kasa avec utilisation d'une base de données. React a été utilisé pour le front-end notamment via la création de composants modulaires, ainsi que l'utilisation du système de routes pour créer plusieurs pages. Ce fut une expérience enrichissante de concevoir et de mettre en œuvre des composants en suivant la syntaxe spécifique de React. ",
     tags: ["React", "JavaScript", "Sass"],
-    image: "/images/kasa.png",
-    githubUrl: "https://github.com/Kaspatou07/Kasa",
-    liveUrl: "https://kaspatou07.github.io/Kasa/",
+    image: `${import.meta.env.BASE_URL}images/kasa.png`,
+    githubUrl: "https://github.com/pabarn-dev/Kasa",
+    liveUrl: "https://pabarn-dev.github.io/Kasa/",
   },
   {
     title: "Plateforme d’actualités tech avec gestion complète des articles",
@@ -40,9 +40,9 @@ const projects: Project[] = [
     description:
       "Application web permettant de consulter des articles classés par catégorie, avec un espace administrateur sécurisé pour créer, modifier et publier du contenu via un éditeur riche.",
     tags: ["Node.js", "Express", "JWT", "Quill", "Render"],
-    image: "/images/tech-news.png",
-    githubUrl: "https://github.com/Kaspatou07/tech-news",
-    liveUrl: "https://kaspatou07.github.io/tech-news/",
+    image: `${import.meta.env.BASE_URL}images/tech-news.png`,
+    githubUrl: "https://github.com/pabarn-dev/tech-news",
+    liveUrl: "https://pabarn-dev.github.io/tech-news/",
   },
   {
     title: "Débogage et mise en place de test pour 724events",
@@ -50,9 +50,9 @@ const projects: Project[] = [
     description:
       "Débogage et remise en production d’un site vitrine pour une agence événementielle. Affichage dynamique des événements (cards, modales, carrousel, pagination, filtres). Mise en place de tests unitaires.",
     tags: ["React", "JavaScript", "Jest", "SCSS"],
-    image: "/images/724events.png",
-    githubUrl: "https://github.com/Kaspatou07/724events",
-    liveUrl: "https://kaspatou07.github.io/724events/",
+    image: `${import.meta.env.BASE_URL}images/724events.png`,
+    githubUrl: "https://github.com/pabarn-dev/724events",
+    liveUrl: "https://pabarn-dev.github.io/724events/",
   },
   {
     title: "Projet Booki",
@@ -60,9 +60,9 @@ const projects: Project[] = [
     description:
       "Premiers pas dans l'univers HTML/CSS sur ce projet. Création d'une page responsive mobile, tablette et desktop à partir d'une maquette Figma.",
     tags: ["HTML", "CSS", "Figma"],
-    image: "/images/booki.webp",
-    githubUrl: "https://github.com/Kaspatou07/Booki",
-    liveUrl: "https://kaspatou07.github.io/Booki/",
+    image: `${import.meta.env.BASE_URL}images/booki.webp`,
+    githubUrl: "https://github.com/pabarn-dev/Booki",
+    liveUrl: "https://pabarn-dev.github.io/Booki/",
   },
   {
     title: "Gestion d'un site bancaire",
@@ -70,8 +70,8 @@ const projects: Project[] = [
     description:
       "Intégration du front-end et du back-end via une API. Transformation du site statique en application web responsive avec React et Redux.",
     tags: ["React", "Redux", "JavaScript"],
-    image: "/images/argentbank.png",
-    githubUrl: "https://github.com/Kaspatou07/Argentbank",
+    image: `${import.meta.env.BASE_URL}images/argentbank.png`,
+    githubUrl: "https://github.com/pabarn-dev/Argentbank",
   },
   {
     title: "Projet Nina Carducci",
@@ -79,9 +79,9 @@ const projects: Project[] = [
     description:
       "Optimisations de la one page d'une photographe afin de la rendre plus accessible aux utilisateurs ayant une déficience visuelle grâce aux principes d'accessibilités. Le redimensionnement et la conversion des images aux bon formats, permet d'améliorer les performances d'affichages. L'objectif demandé est d'obtenir un score d'au moins 90 sur Lighthouse. Une amélioration du SEO à notamment était effectuée en ajoutant une balise meta title, en renommant les images et en contribuant les balises ALT.",
     tags: ["HTML", "CSS", "Lighthouse"],
-    image: "/images/carducci-projet.webp",
-    githubUrl: "https://github.com/Kaspatou07/Ninacarducci",
-    liveUrl: "https://kaspatou07.github.io/Ninacarducci",
+    image: `${import.meta.env.BASE_URL}images/carducci-projet.webp`,
+    githubUrl: "https://github.com/pabarn-dev/Ninacarducci",
+    liveUrl: "https://pabarn-dev.github.io/Ninacarducci",
   },
 ];
 
